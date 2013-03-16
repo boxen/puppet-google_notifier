@@ -6,6 +6,6 @@
 class google_notifier {
   package { 'GoogleNotifier':
     provider => 'appdmg',
-    source   => 'http://toolbar.google.com/gmail-helper/thankyou_mac.html',
+    source   => 'http://dl.google.com/mac/download/GoogleNotifier_1.10.7.dmg',
   }
 }
